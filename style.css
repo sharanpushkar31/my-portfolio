@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+}
+
+/* Header */
+header {
+    background: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+/* Navigation */
+nav {
+    background: #34495e;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #1abc9c;
+}
+
+/* Sections */
+section {
+    padding: 30px;
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+/* Skills Cards */
+.card {
+    display: inline-block;
+    background: #1abc9c;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+/* Projects */
+.project {
+    background: #ecf0f1;
+    padding: 15px;
+    margin: 10px 0;
+    border-left: 5px solid #1abc9c;
+}
+
+/* Footer */
+footer {
+    background: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
